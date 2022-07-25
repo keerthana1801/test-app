@@ -1,2 +1,2 @@
-# test-app
-Flutter sample app 
+# Test App
+Flutter sample app tutorial.
